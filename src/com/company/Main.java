@@ -123,5 +123,11 @@ public class Main {
         student.setRollNo(12);
         student.getID_NO();
 
+        Student hamid = new Student();
+
+        hamid.setName("Hamid");
+        hamid.setRollNo(13);
+        hamid.getID_NO();
+
     }
 }
